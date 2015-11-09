@@ -1,0 +1,9 @@
+setup.py
+general_feeds_extract/General_feed_extract.py
+general_feeds_extract/__init__.py
+general_feeds_extract.egg-info/PKG-INFO
+general_feeds_extract.egg-info/SOURCES.txt
+general_feeds_extract.egg-info/dependency_links.txt
+general_feeds_extract.egg-info/not-zip-safe
+general_feeds_extract.egg-info/requires.txt
+general_feeds_extract.egg-info/top_level.txt
